@@ -54,8 +54,8 @@ The dataset contains the following fields:
 ## Dashboard Preview
 
 ![Mobile Sales Dashboard](assets/mobile-sales-dashboard.gif)
-
-[🎬 Click here to view the Interactive Dashboard GIF](‪D:\PowerBI\GitHub_Projects\Mobile Sales Analysis_PowerBIDashboard.gif)
+[
+[🎬 Click here to view the Interactive Dashboard GIF](‪D:\PowerBI\GitHub_Projects\Mobile Sales Analysis_PowerBIDashboard.gif)](https://github.com/ShwetaW40/Mobile-Sales-Analysis_Power-BI-Dashboard/blob/main/Mobile%20Sales%20Analysis_PowerBIDashboard.gif)
 
 ##  Key Skills Demonstrated
 
