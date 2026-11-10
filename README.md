@@ -1,12 +1,12 @@
-# Mobile Sales Analysis – Interactive Power BI Dashboard
+# 📱 Mobile Sales Analysis – Interactive Power BI Dashboard
 
-## Project Overview
+## 📌 Project Overview
 
 This project presents an **Interactive Mobile Sales Analysis Dashboard** developed using Microsoft Power BI to analyze mobile sales transactions, customer behavior, brand performance, and sales trends.
 
 The dashboard transforms raw transaction data into meaningful business insights through interactive visualizations, filters, and data-driven reporting.
 
-## Project Objectives
+## 🎯 Project Objectives
 
 - Analyze overall mobile sales performance.
 - Compare brand-wise and mobile model-wise sales.
@@ -16,7 +16,7 @@ The dashboard transforms raw transaction data into meaningful business insights 
 - Evaluate customer ratings and satisfaction.
 - Explore city-wise sales performance.
 
-## Dataset Description
+## 📊 Dataset Description
 
 The dataset contains the following fields:
 
@@ -32,7 +32,7 @@ The dataset contains the following fields:
 - Customer Ratings
 - Mobile Model
 
-## Tools & Technologies
+## 🛠️ Tools & Technologies
 
 - Microsoft Power BI
 - Power Query
@@ -41,7 +41,7 @@ The dataset contains the following fields:
 - Data Visualization
 - Interactive Dashboard Design
 
-## Key Analysis Areas
+## 📈 Key Analysis Areas
 
 1. **Sales Performance Analysis** – Analyze mobile sales and units sold.
 2. **Brand Analysis** – Compare sales across different mobile brands.
@@ -51,11 +51,13 @@ The dataset contains the following fields:
 6. **Payment Analysis** – Analyze customer payment preferences.
 7. **Customer Satisfaction** – Evaluate customer ratings.
 
-## Dashboard Preview
+## 🖥️ Dashboard Preview
 
-‪D:\PowerBI\GitHub_Projects\Mobile Sales Analysis_PowerBIDashboard.gif)
+![Mobile Sales Dashboard](assets/mobile-sales-dashboard.gif)
 
-## Key Skills Demonstrated
+[🎬 Click here to view the Interactive Dashboard GIF](‪D:\PowerBI\GitHub_Projects\Mobile Sales Analysis_PowerBIDashboard.gif)
+
+## 💡 Key Skills Demonstrated
 
 - Data Analytics
 - Business Intelligence
@@ -69,7 +71,7 @@ The dataset contains the following fields:
 - Business Insights
 - Interactive Reporting
 
-## Author
+## 👩‍💻 Author
 
 **Shweta A Walishettar**
 
