@@ -54,9 +54,11 @@ The dataset contains the following fields:
 ## Dashboard Preview
 
 
+
 ## 📊 Dashboard Preview
 
-![Mobile Sales Power BI Dashboard](assets/Mobile%20Sales%20Analysis_PowerBIDashboard.gif)
+![Mobile Sales Power BI Dashboard](Mobile%20Sales%20Analysis_PowerBIDashboard.gif)
+
 
 
 ##  Key Skills Demonstrated
